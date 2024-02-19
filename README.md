@@ -10,7 +10,7 @@ Live Preview: 👉🏽 [ivansaul.githu.io](https://ivansaul.github.io)
 
 ![Made-with-python](https://img.shields.io/badge/Made%20with-Python-orange)
 [![Jinja](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml/badge.svg)](https://github.com/ivansaul/ivansaul.github.io/actions/workflows/jinja.yml)
-[![Deploy](https://github.com/ivansaul/test/actions/workflows/deploy.yml/badge.svg?branch=master&event=deployment)](https://github.com/ivansaul/test/actions/workflows/deploy.yml)
+[![Deploy](https://github.com/ivansaul/test/actions/workflows/deploy.yml/badge.svg)](https://github.com/ivansaul/test/actions/workflows/deploy.yml)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ivansaul/ivansaul.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/badge/-Discord-424549?style=social&logo=discord)](https://discord.gg/b72uAVBz6b)
